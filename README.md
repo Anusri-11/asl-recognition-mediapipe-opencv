@@ -70,5 +70,3 @@ Install all dependencies with:
 pip install -r requirements.txt
 ```
 
-## License
-This project is for educational purposes. 
